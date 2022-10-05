@@ -1,0 +1,57 @@
+
+.naslov{
+    text-align: center;
+    color: orange;
+    background-color: beige;
+    font-size:32pt;
+}
+
+.div{
+    height: 00px;
+    width:1000px;
+}
+
+.nav{
+    background-color: beige;
+    font-size: 18px;
+    text-align:center;
+}
+
+.li{
+    display: inline-block;
+    font-size: 25px;
+    padding-right:50px;
+    padding-left: 50px;
+
+}
+
+.a{
+    color: orange;
+}
+
+.img{
+    display: inline-block;
+    float: right;
+}
+
+.table{
+    display:inline-block;
+    float:center;
+}
+
+hr{
+    background-color: orange;
+    height: 2px;
+}
+.div1{
+    margin: auto;
+    width:400;
+    height:250;
+    text-align: center;
+    font-size:24px;
+    font:"Arial";
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: orange;
+    background-color: beige;
+}
